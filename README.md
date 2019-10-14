@@ -1,2 +1,2 @@
-# rgspot.github.io
+# RGspot
 Сверстанные макеты:
